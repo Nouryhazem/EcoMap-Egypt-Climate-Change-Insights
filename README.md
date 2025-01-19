@@ -32,7 +32,7 @@ This project utilizes a combination of Python, JavaScript, and mapping libraries
 
 Below is a screenshot of the interactive map interface:
 
-![Map Screenshot](Map.png)  
+![Map Screenshot](Map.jpeg)  
 *This is an example of the generated interactive climate change map.*
 
 
