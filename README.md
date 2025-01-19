@@ -8,7 +8,7 @@ This tool is a resource for researchers, policymakers, and the general public to
 
 ## Features
 
-![Map Features](images/Features.png)
+![Map Features]("Features-visual selection.png")
 
 - **Interactive Map**: View climate change projections and their impacts on various Egyptian regions, using a user-friendly, zoomable map interface.
 - **Climate Data Visualization**: The platform integrates climate data such as temperature, precipitation, and sea-level rise to illustrate how these factors evolve over time.
@@ -32,7 +32,7 @@ This project utilizes a combination of Python, JavaScript, and mapping libraries
 
 Below is a screenshot of the interactive map interface:
 
-![Map Screenshot](images/map_screenshot.png)  
+![Map Screenshot](Map screenshot.png)  
 *This is an example of the generated interactive climate change map.*
 
 
